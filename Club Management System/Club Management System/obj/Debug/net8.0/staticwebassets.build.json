@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "CsdDGuE+nWj6D//VV38R647tYB7WifIdnUSPrxkQ30c=",
-  "Source": "Club Management System",
-  "BasePath": "_content/Club Management System",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"qWLf9U2dbD5yqGF5rY7Hp+8QGnEx3VyU3emN5QUQWhU=","Source":"Club Management System","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

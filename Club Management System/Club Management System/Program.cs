@@ -2,7 +2,11 @@ using Club_Management_System.Data;
 using Club_Management_System.Mapper;
 using Club_Management_System.Repos.Implementation;
 using Club_Management_System.Repos.Interfaces;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -38,8 +42,38 @@ builder.Services.AddAutoMapper(
     x => x.AddProfile<MappingProfile>()
     );
 
+builder.Services.AddCors(opt =>
+{
+    opt.AddPolicy("AllowFrontend", policy =>
+    {
+        policy.AllowAnyOrigin()
+        .AllowAnyHeader()
+        .AllowAnyMethod();
+    });
+});
+
+var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["JWT:Key"]));
+builder.Services.AddAuthentication(opt =>
+{
+    opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+    .AddJwtBearer(opt =>
+    opt.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidIssuer = builder.Configuration["JWT:Iss"],
+
+        ValidateAudience = true,
+        ValidAudience = builder.Configuration["JWT:Aud"],
+
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = key
+    });
+
 
 var app = builder.Build();
+app.UseCors("AllowFrontend");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -50,8 +84,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();

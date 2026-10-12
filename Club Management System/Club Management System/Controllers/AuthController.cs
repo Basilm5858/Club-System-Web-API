@@ -1,23 +1,29 @@
-﻿using System.Security.Claims;
+﻿using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Security.Cryptography;
+using System.Text;
 using AutoMapper;
 using Club_Management_System.DTOs;
 using Club_Management_System.Models;
 using Club_Management_System.Repos.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace Club_Management_System.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class AuthController : ControllerBase
     {
         private readonly IUnitOfWork _unitOfWork;
-        private readonly IMapper _mapper;
-        public AuthController(IUnitOfWork unitOfWork,IMapper mapper)
+        private readonly IConfiguration configuration;
+        public AuthController(IUnitOfWork unitOfWork,IConfiguration configuration)
         {
             _unitOfWork = unitOfWork;
-            _mapper = mapper;
+            this.configuration = configuration;
         }
 
         [HttpPost("Register")]
@@ -70,7 +76,19 @@ namespace Club_Management_System.Controllers
             };
 
             // Signture
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["JWT:Key"]));
 
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+            var token = new JwtSecurityToken(
+                issuer: configuration["JWT:Iss"],
+                audience: configuration["JWT:Aud"],
+                claims: claims,
+                expires: DateTime.Now.AddHours(1),
+                signingCredentials: creds
+                );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
     }

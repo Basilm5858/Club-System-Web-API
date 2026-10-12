@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\repos\\implementation\\authrepocustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\repos\\implementation\\authrepocustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\repos\\interfaces\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\repos\\interfaces\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basil\\onedrive\\desktop\\web api\\club-system-web-api\\club management system\\club management system\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\DTOs\\AuthDTO.cs",
+              "RelativeDocumentMoniker": "Club Management System\\DTOs\\AuthDTO.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\DTOs\\AuthDTO.cs",
+              "RelativeToolTip": "Club Management System\\DTOs\\AuthDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:33:22.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA/wFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T16:18:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Club Management System\\appsettings.json",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\appsettings.json",
+              "RelativeToolTip": "Club Management System\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T15:46:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Program.cs",
+              "RelativeToolTip": "Club Management System\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthRepoCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "RelativeToolTip": "Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Models\\Booking.cs",
+              "RelativeToolTip": "Club Management System\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBooking.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "RelativeToolTip": "Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "Club Management System\\DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "Club Management System\\DTOs\\BookingDTO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\basil\\OneDrive\\Desktop\\Web API\\Club-System-Web-API\\Club Management System\\Club Management System\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T15:46:15.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

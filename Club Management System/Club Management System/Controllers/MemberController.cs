@@ -2,6 +2,7 @@
 using Club_Management_System.DTOs;
 using Club_Management_System.Models;
 using Club_Management_System.Repos.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,6 +10,7 @@ namespace Club_Management_System.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class MemberController : ControllerBase
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -45,6 +47,7 @@ namespace Club_Management_System.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetById(int id)
         {
             var res = await _unitOfWork.MemberCustomRepo.GetById(id);
