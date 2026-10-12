@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\repos\\implementation\\authrepocustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\repos\\implementation\\authrepocustomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\repos\\interfaces\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\repos\\interfaces\\ibooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|c:\\users\\basel.muhammed\\desktop\\club management system\\club management system\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67328C83-253E-4DE3-84FD-ABB65AFD3034}|Club Management System\\Club Management System.csproj|solutionrelative:club management system\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Club Management System\\appsettings.json",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\appsettings.json",
+              "RelativeToolTip": "Club Management System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T12:16:36.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepoCustomRepo.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "RelativeToolTip": "Club Management System\\Repos\\Implementation\\AuthRepoCustomRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:50:13.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAD4v0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:00:38.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBooking.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "RelativeToolTip": "Club Management System\\Repos\\Interfaces\\IBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:26:18.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Models\\Booking.cs",
+              "RelativeToolTip": "Club Management System\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:27:49.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Program.cs",
+              "RelativeToolTip": "Club Management System\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:40:36.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:40:01.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\DTOs\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "Club Management System\\DTOs\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\DTOs\\BookingDTO.cs",
+              "RelativeToolTip": "Club Management System\\DTOs\\BookingDTO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:27:01.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Club Management System\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\basel.muhammed\\Desktop\\Club Management System\\Club Management System\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Club Management System\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:08:30.984Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
