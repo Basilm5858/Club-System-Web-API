@@ -4,12 +4,12 @@ namespace Club_Management_System.Repos.Interfaces
 {
     public interface IUnitOfWork
     {
-        BookingCustomRepo BookingCustomRepo { get; }
-        PaymentCustomRepo PaymentCustomRepo { get; }
-        MemberCustomRepo MemberCustomRepo { get; }
-        MemberShipCustomRepo MemberShipCustomRepo { get; }
-        FacilityCustomRepo FacilityCustomRepo { get; }
-        AuthRepoCustomRepo AuthRepoCustomRepo { get; }
+        IBooking BookingCustomRepo { get; }
+        IPayment PaymentCustomRepo { get; }
+        IMember MemberCustomRepo { get; }
+        IMemberShip MemberShipCustomRepo { get; }
+        IFacility FacilityCustomRepo { get; }
+        IAuthRepo AuthRepoCustomRepo { get; }
         Task SaveChangesAsync();
 
     }

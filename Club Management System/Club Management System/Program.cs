@@ -21,15 +21,6 @@ builder.Services.AddDbContext<My_AppContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("conn"))
     );
 
-builder.Services.AddScoped<MemberCustomRepo>();
-builder.Services.AddScoped<BookingCustomRepo>();
-builder.Services.AddScoped<FacilityCustomRepo>();
-builder.Services.AddScoped<PaymentCustomRepo>();
-builder.Services.AddScoped<AuthRepoCustomRepo>();
-builder.Services.AddScoped<MemberShipCustomRepo>();
-
-
-
 builder.Services.AddScoped<IMember, MemberCustomRepo>();
 builder.Services.AddScoped<IBooking, BookingCustomRepo>();
 builder.Services.AddScoped<IFacility, FacilityCustomRepo>();

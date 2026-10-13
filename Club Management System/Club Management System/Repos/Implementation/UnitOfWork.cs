@@ -7,26 +7,27 @@ namespace Club_Management_System.Repos.Implementation
     {
         private readonly My_AppContext _context;
 
-        public UnitOfWork(My_AppContext context, AuthRepoCustomRepo authRepoCustomRepo,BookingCustomRepo bookingCustomRepo, PaymentCustomRepo paymentCustomRepo, MemberCustomRepo memberCustomRepo, MemberShipCustomRepo memberShipCustomRepo, FacilityCustomRepo facilityCustomRepo)
+        public UnitOfWork(My_AppContext context, IAuthRepo authRepoCustomRepo, IBooking bookingCustomRepo, IPayment paymentCustomRepo, IMember memberCustomRepo, IMemberShip memberShipCustomRepo, IFacility facilityCustomRepo)
         {
             _context = context;
+            AuthRepoCustomRepo = authRepoCustomRepo;
             BookingCustomRepo = bookingCustomRepo;
             PaymentCustomRepo = paymentCustomRepo;
             MemberCustomRepo = memberCustomRepo;
             MemberShipCustomRepo = memberShipCustomRepo;
             FacilityCustomRepo = facilityCustomRepo;
-            AuthRepoCustomRepo = authRepoCustomRepo;
         }
-        public AuthRepoCustomRepo AuthRepoCustomRepo { get; }
-        public BookingCustomRepo BookingCustomRepo { get; }
 
-        public PaymentCustomRepo PaymentCustomRepo { get; }
+        public IAuthRepo AuthRepoCustomRepo { get; }
+        public IBooking BookingCustomRepo { get; }
 
-        public MemberCustomRepo MemberCustomRepo { get; }
+        public IPayment PaymentCustomRepo { get; }
 
-        public MemberShipCustomRepo MemberShipCustomRepo { get; }
+        public IMember MemberCustomRepo { get; }
 
-        public FacilityCustomRepo FacilityCustomRepo { get; }
+        public IMemberShip MemberShipCustomRepo { get; }
+
+        public IFacility FacilityCustomRepo { get; }
 
         public async Task SaveChangesAsync()
         {
